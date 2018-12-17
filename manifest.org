@@ -1,0 +1,111 @@
+.
+├── en
+│   ├── Albert King
+│   │   └── Born Under A Bad Sign
+│   ├── B.B. King
+│   │   └── B.B. King - Live In Cook County Jail (2015) [24-96 HD FLAC]
+│   ├── Bob Marley
+│   │   └── Legend(Disc 1)
+│   ├── Bonnie Raitt
+│   │   └── 1972 - Give It Up
+│   ├── Boz Scaggs
+│   │   └── 1969 - Boz Scaggs
+│   ├── Bruce Springsteen
+│   │   └── Tunnel of Love
+│   ├── Chet Faker
+│   │   ├── Built On Glass
+│   │   └── Thinking In Textures
+│   ├── Cigarettes After Sex
+│   │   ├── Affection
+│   │   └── Cigarettes After Sex
+│   ├── Cyndi Lauper
+│   │   └── She’s So Unusual
+│   ├── Daft Punk
+│   │   └── Tron Legacy
+│   ├── D'Angelo
+│   │   └── Voodoo
+│   ├── Death Cab for Cutie
+│   │   ├── Codes and Keys
+│   │   ├── Plans
+│   │   └── Transatlanticism
+│   ├── Earth, Wind & Fire
+│   │   └── That’s the Way of the World
+│   ├── Elvis Costello
+│   │   └── Armed Forces
+│   ├── Eurythmics
+│   │   └── Touch
+│   ├── Funkadlic
+│   │   └── Maggot Brain
+│   ├── Gang Of Four
+│   │   └── Entertainment!
+│   ├── George Michael
+│   │   └── George Michael - Faith
+│   ├── Hüsker Dü
+│   │   └── New Day Rising
+│   ├── Kiss
+│   │   └── Destroyer
+│   ├── LL Cool J
+│   │   └── Radio
+│   ├── Loretta Lynn
+│   │   └── All Time Greatest Hits
+│   ├── Love
+│   │   └── Forever Changes
+│   ├── Merle Haggard
+│   │   └── Down Every Road
+│   ├── MGMT
+│   │   └── Oracular Spectacular
+│   ├── Mott The Hopple
+│   │   └── All The Young Dudes
+│   ├── Nick Murphy
+│   │   └── Built on Glass
+│   ├── OutKast
+│   │   ├── Aquemini
+│   │   ├── ATLiens
+│   │   ├── Idlewild
+│   │   ├── Speakerboxxx
+│   │   └── The Love Below
+│   ├── Pearl Jam
+│   │   ├── Vitalogy
+│   │   └── Vs.
+│   ├── Pink Floyd
+│   │   └── Dark Side Of The Moon
+│   ├── Public Enemy
+│   │   └── It Takes A Nation Of Millions To Hold Us Back
+│   ├── Raekwon
+│   │   └── Only Built 4 Cuban Linx
+│   ├── Richard & Linda Thompson
+│   │   └── I Want To See The Bright_
+│   ├── Steve Earle
+│   │   └── Guitar Town
+│   ├── sting
+│   ├── The Fugees
+│   │   └── The Score
+│   ├── The Smiths
+│   │   └── The Queen Is Dead
+│   ├── The White Stripes
+│   │   └── White Blood Cells
+│   ├── Wilco
+│   │   └── Wilco - (2002-04-23) Yankee Hotel Foxtrot [FLAC 16 44]
+│   └── ZZTop
+│       └── Tres Hombres
+├── es
+│   ├── Calle 13
+│   │   └── Los De Atras Vienen Conmigo
+│   ├── Control Machete
+│   │   ├── Artilleria Pesada
+│   │   ├── Mucho Barato
+│   │   └── Uno Dos Bandera
+│   ├── Lila Downs
+│   │   ├── Balas y Chocolate
+│   │   ├── La Cantina
+│   │   ├── Raiz
+│   │   └── Shake Away
+│   ├── Marc Anthony
+│   │   └── Valio La Pena
+│   └── Molotov
+│       └── Dónde Jugarán Las Niñas
+└── fr
+    ├── Indila
+    └── stromae
+
+108 directories
